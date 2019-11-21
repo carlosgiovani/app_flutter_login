@@ -2,6 +2,8 @@
 
 A new Flutter application.
 
+Aplicação com exemplos de animações na tela de login e na home
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
